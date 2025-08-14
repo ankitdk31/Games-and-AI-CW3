@@ -16,3 +16,5 @@ YELLOW = (255, 255, 0)
 PLAYER_SPEED = 5
 GHOST_SPEED = 3
 PELLET_SCORE = 10
+PELLET_RADIUS = 3  # Size of pellets in pixels
+COLLISION_RADIUS = 10  # Distance for collisions
